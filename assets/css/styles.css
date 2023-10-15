@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+.default {
+	width: 100%
+}
+
+.banner {
+	background-color: #4472C4;
+	color:#FFFFFF;
+	text-align:center;
+}
+
+.menu_bar {
+	background-color: #D9E1F2;
+	font-weight:bold;
+	text-align:center;
+}
+
+.menu_bar a:link {
+	text-decoration: none;
+	color: cornflowerblue;
+}
+
+.menu_bar a:visited {
+		text-decoration: none;
+	color: cornflowerblue;
+}
+
+.table{
+	border: 10px ridge;
+	width: 100%;
+	text-align: center;
+}
+
+.cell td{
+	border: 1px solid;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.italics {
+	font-style: italic;
+}
+
+a:link {
+	text-decoration: none;
+	color: cornflowerblue;
+	font:italic
+}
+
+a:visited {
+	text-decoration: none;
+	color: cornflowerblue;
+}
+
+div.center {
+  text-align: center;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
